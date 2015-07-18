@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "IPT Quick Search",
+  "description": "This extension allows for a quick search of IPT.",
+  "version": "1.0",
+ 
+  "browser_action": {
+   "default_icon": "ipt.png",
+   "default_popup": "popup.html"
+  }
+}
